@@ -6,13 +6,13 @@ local ADMINS = {
     44694442, -- MinecraftFan
     2327113988, -- HaremGodA1den
     2214013158, -- MiIIionares
-    92157681, -- Nina
+    1612355772, -- Nina
 }
 local MODS = {
     430325969, -- KasysProperty
     11212285, -- percs
     2345019807,
-    67837292,
+    1580417945,
     1981770367,
     1581612339,
     693789437,
