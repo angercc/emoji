@@ -2,14 +2,14 @@ local ADMINS = {
     1612355772, -- Lerkermer
     1342879760, -- w_6u
     200547759, -- Mas2n
-    514475388, -- SusLeveI100
+    123, -- SusLeveI100
     44694442, -- MinecraftFan
     2327113988, -- HaremGodA1den
     2214013158, -- MiIIionares
     1612355772, -- Nina
 }
 local MODS = {
-    430325969, -- KasysProperty
+    514475388, -- KasysProperty
     11212285, -- percs
     2345019807,
     1580417945,
@@ -125,7 +125,7 @@ local function checkswag()
                         end
                     elseif table.find(MODS, plrID) then
                         if v:FindFirstChildWhichIsA('Humanoid') then
-                            v:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🍆]' .. game.Players[v.Name].DisplayName)
+                            v:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟]' .. game.Players[v.Name].DisplayName)
                         end
                     elseif table.find(CUSTOMWINNER, plrID) then
                         if v:FindFirstChildWhichIsA('Humanoid') then
