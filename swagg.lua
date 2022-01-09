@@ -2,7 +2,7 @@ local ADMINS = {
     1612355772, -- Lerkermer
     1342879760, -- w_6u
     200547759, -- Mas2n
-    12344533453, -- SusLeveI100
+    514475388, -- SusLeveI100
     44694442, -- MinecraftFan
     2327113988, -- HaremGodA1den
     2214013158, -- MiIIionares
