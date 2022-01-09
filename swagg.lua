@@ -1,5 +1,5 @@
 local ADMINS = {
-    2596674204, -- Lerkermer
+    1612355772, -- Lerkermer
     1342879760, -- w_6u
     200547759, -- Mas2n
     12344533453, -- SusLeveI100
@@ -121,7 +121,7 @@ local function checkswag()
                         end
                     elseif table.find(ADMINS, plrID) then
                         if v:FindFirstChildWhichIsA('Humanoid') then
-                            v:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[💎]' .. game.Players[v.Name].DisplayName)
+                            v:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[☑️]' .. game.Players[v.Name].DisplayName)
                         end
                     elseif table.find(MODS, plrID) then
                         if v:FindFirstChildWhichIsA('Humanoid') then
